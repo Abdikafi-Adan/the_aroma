@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+    <div class="Container-fluid header-container">
+        <div class="row">
+           <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+<div class="carousel-item active">
+<div class=" d-flex align-items-center justify-content-center min-vh-100 banner"  style="background-image:url('./media/versace_bg.jpg')"> s<div>
+                    <div>
+                   <h2 class="display-3"> Over the years, colognes and perfumes have evolved from being mere fragrances to wade-off smelly odors into more of an extension of the wearer himself.</h2>
+                    </div>
+                   <div>
+                    <h4>
+                    <a href="" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
+                    </h4>
+                   </div>
+                
+    </div>
+            
+</div>
+{% block content %}
+ <div class="container-fluid px-0">
+   <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class=" d-flex align-items-center justify-content-center min-vh-100 banner"  style="background-image:url('./media/versace_bg.jpg');"></div>
+      <div class="carousel-caption d-none d-md-block">
+        
+        <h3>Over the years, colognes and perfumes have evolved from being mere fragrances to wade-off smelly odors into more of an extension of the wearer himself.</h3>
+        <div>
+            <p>
+               <a href="" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
+            </p>
+          </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+       <div class=" d-flex align-items-center justify-content-center min-vh-100 banner"  style="background-image:url('./media/hugoboss_bg.jpg');"></div>
+      <div class="carousel-caption d-none d-md-block">
+        <h5> Your scent has the ability to improve your mood, boost your confidence, as well as to make or break your first impressions with other people.</h5>
+        <div>
+            <h4>
+               <a href="" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
+            </h4>
+          </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+       <div class=" d-flex align-items-center justify-content-center min-vh-100 banner"  style="background-image:url('./media/armani_bg.png');"></div>
+      <div class="carousel-caption d-none d-md-block">
+        <h5>The distinctive smell that effuses from your clothes speaks volumes about your personality, and so what better than smelling like absolute luxury? </h5>
+        <div>
+            <h4>
+               <a href="" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
+            </h4>
+          </div>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+ </div>
+{% endblock %}

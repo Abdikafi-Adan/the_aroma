@@ -1,0 +1,126 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: calc(100vh - 164px);
+    background-size: cover;
+    color: #000;
+    font-family: 'Cardo', serif;
+    width: 100%;
+}
+
+/* from Bulma */ 
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+    
+}
+
+.logo-font {
+    text-transform: uppercase;
+}
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.shop-now-button {
+    background: #AD974F;
+    color: white;
+    min-width: 260px;
+}
+
+.btn-gold {
+    background: #AD974F;
+    color: white;
+}
+
+.shop-now-button:hover,
+.shop-now-button:active,
+.shop-now-button:focus,
+.btn-black:hover,
+.btn-black:active,
+.btn-black:focus {
+    background: #222;
+    color: white;
+}
+
+.dark-gold {
+    color: #8E793E !important;
+    
+
+}
+.light-gold {color: #AD974F !important;
+}
+.intellectual-grey {color: #231F20 !important;
+}
+
+.light-grey {color: #EAEAEA;
+}
+
+.bg-grey{
+    background:  #EAEAEA;
+}
+
+.bg-dark-gold{
+    background: #8E793E !important;
+}
+.bg-light-gold{
+    background: #AD974F !important;
+
+}
+
+.text-black {
+    color: #000 !important;
+}
+
+.border-black {
+    border: 2px solid #AD974F !important;
+}
+
+.banner{
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.carousel-item p {
+    font-size: 25px;
+    color:  #AD974F !important;
+    display: block;
+    align-items: center;
+}
+
+.carousel-item h2 {
+    position: bottom center;
+
+}
+
+/* -------------------------------- Media Queries */
+
+/* Slightly larger container on xl screens */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+/* fixed top navbar only on medium and up */
+@media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+}
