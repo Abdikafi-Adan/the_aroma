@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
         
-        <link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+       <link href="https://fonts.googleapis.com/css2?family=Cardo&family=Poppins&display=swap" rel="stylesheet">
         
         <link rel="stylesheet" href="{% static 'css/base.css' %}">
     {% endblock %}
@@ -103,10 +103,10 @@
                 </ul>
             </div>
         </div> 
-         <div class="row">
-            <nav class="navbar navbar-expand-lg bg-grey w-100">
-                <button class="navbar-toggler light-gold" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon "></span>
+         <div class="row ">
+            <nav class="navbar navbar-expand-lg bg-grey w-100 navbar-dark" >
+                <button class="navbar-toggler bg-dark-gold" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+                     <span class="navbar-toggler-icon"></span>
                 </button>
                 {% include 'includes/mobile-top-header.html' %}
                 {% include 'includes/main-nav.html' %}
@@ -119,10 +119,6 @@
         </div>
     </header>
 
-
-
-    
-   
     {% if messages %}
         <div class="message-container"></div>
     {% endif %}

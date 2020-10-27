@@ -89,29 +89,60 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
 }
-.carousel-item p {
-    font-size: 25px;
-    color:  #AD974F !important;
+.carousel-caption{
+    padding-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.carousel-caption h2{
+    font-size: 75px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #AD974F;
+    background: rgba(3, 3, 3, 0.82);
+}
+.carousel-caption  h3 {
+    font-size: 35px;
+    color:  #8E793E!important;
     display: block;
     align-items: center;
+    background: rgba(3, 3, 3, 0.82);
+    font-weight: bold;
+}
 }
 
-.carousel-item h2 {
-    position: bottom center;
+.carousel-caption a{
+    padding: 15px 35px;
+    display: inline-block;
+    margin-top: 25px;
+    border-radius: 25px;
+    
 
 }
+.carousel-control-prev{
+background-image: none;
+}
 
+.carousel-control-next{
+    background-image: none;
+}
+.carousel-indicators .active{
+    background-color: #8E793E;
+    
+
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
-@media (min-width: 1200px) {
+@media (min-width: 768px) and (max-width:991px) {
   .container {
     max-width: 80%;
   }
+
 }
 
 /* fixed top navbar only on medium and up */
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) and (max-width: 1200px){
     .fixed-top-desktop-only {
         position: fixed;
         top: 0;
@@ -121,6 +152,27 @@ body {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 118px;
     }
+    .carousel-caption{
+            padding-bottom: 250px;
+
+    }
+    .carousel-caption h2{
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .carousel-caption{
+        padding-bottom: 220px;
+    }
+
+    .carousel-caption h2{
+        font-size: 45px;
+    }
+    .carousel-caption h3{
+        font-size: 36px;
+    }
+    
 }
