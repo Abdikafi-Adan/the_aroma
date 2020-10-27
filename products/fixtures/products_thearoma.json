@@ -1,0 +1,702 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001340155",
+      "name": "Hugo Man Eau de Toilette",
+      "description": "Hugo was released in 1995 and the nose behind it was Bob Aliano who has blended many other Hugo Boss perfumes including Hugo Created Limited Edition. The fragrance is led by an aromatic green accord that identifies with fresh, spicy, and floral notes.\nThe scent feels almost synthetic, but it does not have to be in a bad way.\nIt opens up with Fougere and fruity accords of fresh mint, juicy grapefruit, fruity green apple, with an uninterrupted strong base of lavender. The fragrance maintains stability during the opening summary and refreshing notes before it develops into muskier and woody undercurrents.",
+      "price": 58.99,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "https://cdn2.tendance-parfums.com/media/catalog/product/cache/4aa19f79e4c8443f98fec02ca05a074b/h/u/hugo-man-extremet-boite-et-flacon-du-parfum.jpgp",
+      "image": "hugo-man-extremet-boite-et-flacon-du-parfum.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001600425",
+      "name": "Hugo Boss Deep Red Eau de Parfum",
+      "description": "Deep Red for Women has a feminine touch to it that leans more toward the rather bold and outdoorsy side of womanhood. This fragrance was launched in 2001 and was created by master perfumers Beatrice Piquet and Alain Astori. This piece is known for its amazing mouth-watering opening above all.\nSweet citrus and blood orange have a prominent emergence into the top notes of the fragrance and stay constant through the drydown. The base notes of premium sandalwood and ultra-feminine vanilla shine in the combination right from the top notes too. This fragrance is something that reminds you of the youthful days and your headfirst attitude of the time. ",
+      "price": 74.99,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "https://i5.walmartimages.com/asr/951d5e6b-d230-4f86-a0b6-b8ecec6d369e_1.88f518eb61bdb6e87fcd4a5a6543f8b3.jpeg",
+      "image": "Hugo_Boss_Deep_Red_Eau_de_Parfum.jpeg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001730010",
+      "name": "Boss No. 1 Eau de Toilette by Hugo Bosst",
+      "description": "Boss No. 1 was a crowning achievement for the brand, and it has set the stage for the future success of Hugo Boss’s fragrance line. This classic is a masculine fragrance that was launched in 1985 with the help of perfumer Pierre Wargnye. This is an Aromatic Fougere fragrance with high-quality base essential oils for the ultimate experience. \nAs soon as you spray the first cap you can start getting in the medicinal and herbal notes of artemisia along with other green and citrusy notes of bergamot, lemon, green apples, and basil. Musk and oakmoss steal the show being the steady notes in the background that soon get the creaminess of sandalwood along with them.",
+      "price": 65.99,
+      "category": 3,
+      "rating": 4.7,
+      "image_url": "https://s.sdgcdn.com/7/2018/06/f99d096ea0a59a138796572c653de3441d30583a_081fac2f8376548472eb5b3347b32da21cd92c96_hbeu58013913_999_21-1.jpg",
+      "image": "Boss No. 1 Eau de Toilette by Hugo Bosst.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001890157",
+      "name": "Hugo Boss XX Eau de Toilette",
+      "description": "Gourmand fruity notes dominate this fragrance and it was launched in 2007. The scent is aimed toward the metallic floral side and contains a dose of confidence and magnetic allure. The composition is known to be intensive, delightful, and luscious. \nThe opening of this fragrance is gorgeous and carries a really warm and feminine feel to it. The first notes are a little strong litchi flavor that goes on to join hands with the floral jasmine notes along with blooming and rich rose notes. The drydown is very simple and sensual with musk at the base note.",
+      "price": 56.99,
+      "category": 3,
+      "rating": 4,
+      "image_url": "https://canary.contestimg.wish.com/api/webimage/5a1c7cd6db7b445837bd8491-large.jpg?cache_buster=a189894b8a6f55bd00de01cbc64cae0a",
+      "image": "Hugo_Boss_XX_Eau de_Toilette.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002111605",
+      "name": "Hugo Boss Bottled Eau de Toilette",
+      "description": "The abstract idea behind this fragrance is capturing the style of Hugo Boss in a bottle of perfume. This piece launched and successful in 1998 and the nose behind it was the very own Annick Menardo. The product is known to have very striking and warm woody notes along with aromatic accords.\nCinnamon and mahogany notes made a great spicy accord in the opening notes of the fragrance. The initial notes also have a fruity accord of apples and plums, along with a modest hint of citrus and geranium. The base notes strengthen the composition to a great length with cedarwood and vanilla having a strong appearance.",
+      "price": 74.99,
+      "category": 3,
+      "rating": 4.5,
+      "image_url": "https://p1.akcdn.net/full/538378911.hugo-boss-boss-bottled-20th-anniversary-edition-edt-100ml.jpg",
+      "image": "Hugo_Boss_Bottled_Eau_de_Toilette.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002260206",
+      "name": "Hugo Boss Femme Eau de Parfum Spray for Women",
+      "description": "This is a fragrance for women that was released in early 2006, however, it was created in 2000. This perfume captures the very being of femininity and womanhood, and it is a scent that is dedicated to the free-spirited and joyful women who have no care in the world.\nBlack currant and tangerine are the initial notes that can be sensed in with the first spray of the perfume. Freesia note is a great touch to the top notes, and they naturally turn toward more floral accords of lily-in-the-valley and rose. Lemonwood and apricot skin make a great combination along with musk and give a great bold whiff of the perfume.",
+      "price": 53.99,
+      "category": 3,
+      "rating": 3.7,
+      "image_url": "https://savero.se/wp-content/uploads/2020/09/S0511929_400970.jpg",
+      "image": "Hugo Boss Femme_Eau_de_Parfum_Spray_for_Women.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002440521",
+      "name": "Hugo Boss The Scent Private Accord for Her",
+      "description": "The Scent Private Accord is a relatively new release, marking the year of 2018 for its launch. As per the brand, this fragrance carries gourmand-oriental accord to its original version and has some of the delicious notes that all women (and men) desire for. This nose behind this fragrance is Louise Turner.\nThe opening of this fragrance has many dark facets along with oriental undertones, and it makes it so much more delicious. The top notes of mandarin unify with the dark coffee notes at the heart with the first whiff of the perfume. You will soon start realizing how this is not your everyday female scent, but a rather bold and heavy fragrance for daring women.",
+      "price": 99.99,
+      "category": 3,
+      "rating": 5,
+      "image_url": "https://cdn.notinoimg.com/detail_zoom/hugo-boss/3614227391802_02-o/hugo-boss-boss-the-scent-private-accord-eau-de-parfum-for-kvinnor___4.jpg",
+      "image": "Hugo_Boss_The_Scent_Private_Accord_for_Her.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002601115",
+      "name": " HUGO BOSS Dark Blue EdT 75ml",
+      "description": " Hugo Boss Dark Blue is a great fragrance form the house of Hugo Boss. The opening of this fragrance is really fresh and citrusy, with a hint of ginger as well. This opening is somewhat reminiscent of a nice cocktail. After a while, a soft floral touch gets added to this fragrance. This gives it a nice and cool scent. Then, in the dry down, you’ll start to notice a nice touch of suede, giving the fragrance a new layer and making it smell even nicer.\nThe top notes of Hugo Boss Dark Blue are Indian lime and Malabar ginger. The middle notes are pelargonium, cypress, and sage. The base notes are benzoin, olibanum, patchouli, and suede.",
+      "price": 56.99,
+      "category": 3,
+      "rating": 4.5,
+      "image_url": "https://www.vikingline.se/owif/images/155487?size=1920",
+      "image": "HUGO_BOSS_Dark_Blue_EdT_75ml.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002690715",
+      "name": "Hugo Boss The Scent",
+      "description": "Hugo Boss The Scent is a great fragrance with a very safe and easy to wear scent. This fragrance opens with a spicy and fruity scent. This scent will stay like this for a long time. After a while, you’ll notice a nice, leathery undertone to complete this fragrance. The scent of this fragrance will stay quite linear for the most part. However, the scent itself is very nice and does its job perfectly. Overall, this is a great fragrance.\nThe top note of Hugo Boss The Scent is ginger. The middle notes are Maninka fruits and lavender. The base note is leather.",
+      "price": 169.99,
+      "category": 3,
+      "rating": 4.7,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/272824_spo_1024x1024.jpg?v=1571609923",
+      "image": "Hugo_Boss_The_Scent.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002701115",
+      "name": "Hugo Boss Red",
+      "description": "Hugo Boss Red is a really nice fragrance with a somewhat mysterious scent to it. The opening of this fragrance is mainly fresh, with a noticeable dose of grapefruit. This then turns into a more sweet version with a note of rhubarb. This note is quite interesting as it isn’t used too much. This gives the fragrance a unique and mysterious scent. The dry down turns this fragrance into a warmer version. Overall, a great fragrance.\n. The top notes of Hugo Boss Red are grapefruit, pink pepper, and galbanum. The middle notes are pineapple, rhubarb, and cedar. The base notes are tonka beans and amber.",
+      "price": 84.99,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "https://m.media-amazon.com/images/I/61cmhghYhzL._AC_SS350_.jpg",
+      "image": "Hugo_Boss_Red.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002761055",
+      "name": "Versace Eros Eau de Toilette Spray for Men",
+      "description": "Eros was launched in 2012 and was known to resonate heavily with the Greek Mythology like many other great Versace perfumes. It was introduced as the new DNA of the firm with a smell that became the first exclusive men’s perfume by Versace. Eros was the work of perfumer Aurelien Guichard and had been introduced as an oriental scent with woody textures.\nRight off the bat, you are hit with a fresh Mint base note that soon blends into the warmth of Tonka Beans. You can really sense the aromatic accord of all the happy and bright ingredients that have been mixed into a whole new personality of their own. The middle notes give you a whiff of citrusy Green Apple and Lemon to really lift your spirits on a mundane day.",
+      "price": 29.99,
+      "category": 1,
+      "rating": 3,
+      "image_url": "https://www.samawa.ae/pub/media/catalog/product/cache/1/image/800x1037/e9c3970ab036de70892d86c6d221abfe/1/_/1_35.jpg",
+      "image": "Versace_Eros_Eau_de_Toilette_Spray_for_Men.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820069",
+      "name": "Versace OUD Noir Eau De Parfum Spray",
+      "description": "Versace Oud Noir perfume spray was invented in the year 2013 and aimed toward more oriental woody notes. This scent was released as one of the uber masculine and classy fragrances Versace is a proud maker of. The product contains primary ingredients that are bitter orange, Neroli, and spicy pepper.\nThe fragrance opens with a waft of musky Oud that blends in with the fresh orange notes, giving you a very woody and floral accord. You are met with very sharp yet sweet notes of Neroli, Saffron, and Cardamom swaying along with the whole blend. This becomes an easy crowd-pleaser with a very rare masculine scent that is not too overpowering.",
+      "price": 99.99,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/900x900/237817.jpg",
+      "image": "Versace_OUD_Noir_Eau_De_Parfum_Spray.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820147",
+      "name": "Versace Red Jeans for Women Eau De Toilette Spray",
+      "description": "COne of the oldest perfumed under the Versace umbrella, Red Jeans for Women was launched in 1994. This fragrance was introduced by the perfumer Jean-Pierre Bethouart and has been known to carry the fruity, floral, and happy vibe that women embody.\nThe fragrance is a blend of oriental notes with Lilly-at-the-valley appearing at the heart note in the blend. This is a scent made for the young at heart and young at mind, giving you occasional whiffs of floral and powdery accords that young women love. Ingredients like Rose, Peach, and Apricot give a very happy, clean, and fresh vibe to it.\nThis is a through-and-through summer scent, and great for all the patio brunches with your friends. Summer dresses when coupled with this little beauty can turn into a beautifully lethal combination to carry.",
+      "price": 99,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61G-nG96HRL._SL1000_.jpg",
+      "image": "Versace_Red_Jeans_for_Women_Eau_De_Toilette_Spray.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002910572",
+      "name": "Versace Bright Crystal Eau de Toilette Spray for Women",
+      "description": "This luminous fragrance was designed by Alberto Morillas and was introduced in the market in 2006 for as a fruity accord of fresh, bright, and clean notes. This product was aimed for the Versace-fiend female audience that soon became one of their prized possession.\nThe base notes of the fragrance can be determined to be of Peony, Yuzu, and Pomegranate. You are soon swayed toward the aqua accord of water notes and lotus that give the scent a cool and fresh touch. This scent can be categorized as one that transports you to the happy days, probably a beach week, where you are absolutely relaxed and calm.",
+      "price": 66.99,
+      "category": 1,
+      "rating": 4.7,
+      "image_url": "https://i5.walmartimages.com/asr/f041d470-5531-42cf-b553-9723c2fa488d_1.616e8dbc5e081ab9eeed15b4d612d8ed.jpeg?odnWidth=450&odnHeight=450&odnBg=ffffff",
+      "image": "Versace_Bright_Crystal_Eau_de_Toilette_Spray_for_Women.jpeg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002990740",
+      "name": " Versace Eros Flame for Men",
+      "description": "This fragrance was known to be a flanker to the celebrated Eros variant for men created by Versace. Olivier Pescheux is the nose behind this scent which is known to be one of the greatest whiffs of passionate and sensual love. The product was released in the year 2018.\nMandarin Orange in the Eros Flame adds a pleasant and warm touch to the original Eros Eau de parfum. You can don this fragrance in almost any weather or season due to its aromatic and fresh spicy accord. The ingredients that truly stand out in the base notes are the woody Texas Cedar and comforting Tonka Beans. This fragrance can form a romantic sillage around you.Romance is truly a forte of this product, and therefore it is great for those red hot nights to woo your partner a little further. This fragrance is probably a man’s best friend and will not shine on female carriers. ",
+      "price": 82.99,
+      "category": 1,
+      "rating": 4.8,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/900x900/341745.jpg",
+      "image": "Versace_Eros_Flame_for_Men.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003050248",
+      "name": " Versace Pour Homme Eau De Toilette Natural Spray",
+      "description": "The Pour Homme Eau De Toilette fragrance was launched in 2008 as an aromatic Fougere fragrance for men. Much like other scents introduced for men by Versace, this one was invented by the nose of perfumer Alberto Morillas too.\nVersace has never shied away offering men a space of expression with floral notes in almost all of their scents for men. This too contains oriental notes with Neroli, Rose, and Geranium as the fragrance’s top and base notes respectively. Tonka beans add warmth to the mix and make it moderately sensual.",
+      "price": 59.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41BkTJQg2hL.jpg",
+      "image": "Versace_Pour_Homme_Eau_De_Toilette_Natural_Spray.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003070787",
+      "name": "Dreamer By Gianni Versace For Men",
+      "description": "The year 1996 saw the launch of many new scents under the Versace brand that included men-exclusive options. Dreamer by Gianni Versace is another one of those masterpieces. The maker behind this piece is Jean-Pierre Bethouart.\nWith a single squirt, you will be exposed to a wave of aromatic and spicy accords that have been blended with a lot of love and luxury. This is a perfect night scent with the top notes being Clary Sage, Mandarin Orange, and flowery Lavender. You are also soon distracted by the woody and smoky Tobacco notes and deep Tonka Beans to add to your masculine personality.You can not only wear this on date nights but also anytime you go at night. This is such a nighty-scent and works great with a breeze in the air. It stands so true with its name. ",
+      "price": 33.99,
+      "category": 1,
+      "rating": 4.4,
+      "image_url": "https://i5.walmartimages.com/asr/e0826cb7-4f26-477d-ab49-3b27e90a5388_1.b3c3f899c067b0f5f3be242554f6ee59.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+      "image": "Dreamer_By_Gianni_Versace_For_Men.jpeg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090182",
+      "name": "VERSACE Dylan Blue Pour Homme Eau De Toilette Spray",
+      "description": "Versace launched Dylan Blue under the Pour Homme collection in the year 2016. This fragrance is known to have been a mix of two of the early Pour Homme scents mainly the original one and the Oud Edition.\nThis is a musky and aromatic fragrance blended with many aquatic notes that make it such a charmer within the men. You get the fresh bolt of Grapefruit and Lemon notes in the opening of the scent. The pleasant whiffs of Patchouli, Incense, Fig Leaves and many more make this combination such a promising one. Fresh spicy, musky, and woody are some of the main accords you can experience here.",
+      "price": 66.99,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61XyyWtqQwL._SX679_.jpg",
+      "image": "VERSACE_Dylan_Blue_Pour_Homme_Eau_De_Toilette_Spray.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090186",
+      "name": "Versace Man Eau Fraiche By Gianni Versace For Men",
+      "description": "This is an edition to the original Versace Man by Gianni Versace and was released in 2006 by Olivier Cresp. The admiration for the Mediterranean culture that the brand has been guilty of has led to this musky and woody composition with Cedar as one of its heart notes.The Latino vibe hits like a brick due to the presence of Tobacco in the blend. The aquatic notes make you feel like you are between a vast ocean, cruising with your loved ones. Starfruit, Lemon, and woodsy notes gel in with the sage and give you a waft of floral and sun-beaming feelings in your heart.\nIf you are headed to a big game and need something to light up your confidence, then this is something that will work its magic on you seamlessly.The products come off within a short window-time of application, and will not work too well within the conventional crowd due to its complex mix.",
+      "price": 60.99,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://m.media-amazon.com/images/I/51JlSDxKVdL.jpg",
+      "image": "Versace_Man_Eau_Fraiche_By_Gianni_Versace_For_Men.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003161326",
+      "name": "Blue Jeans By Gianni Versace For Men",
+      "description": "Blue Jeans is one of the oldest colognes under the umbrella Gianni Versace for Men. This fragrance was launched in the year 1994 along with other signature men-exclusive scents launched by the brand. This fragrance is known to be a classic masculine one and it has enjoyed a loyal following since the beginning.\nAll the classic Versace fragrances contain many complex and rich notes that give an oomph-factor to them. This Blue Jeans is one of those combinations that add to the masculine personality of rugged and manly men with a sense of style. Some of the top notes here include Brazilian Rosewood, Juniper, Sandalwood, and other citrusy notes for a smooth touch.",
+      "price": 54.99,
+      "category": 1,
+      "rating": 4.3,
+      "image_url": "https://i.ebayimg.com/images/g/W3EAAOSw1ZJet~8b/s-l640.jpg",
+      "image": "Blue_Jeans_By_Gianni_Versace_For_Men.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003230723",
+      "name": "Black Orchid By Tom Ford For Women",
+      "description": "Black Orchid was the first signature perfume released by the Tom Ford house in the early 2006 and helped the brand pave its way through the fragrance market. Although the scent was marketed more toward the feminine lot, it soon found appreciation and acclaim within a large section of men with more than 30% of its wearers turning out to be them. \nhis fragrance is extremely exhilarating and carries an oriental cyphre note and can be described as complex, dark, and rich. It has a very effervescent and bright opening, and contains a ting of spicy violet which makes sure the fragrance does not go all the way floral.The bubbly tones can be striking even with one little spritz, making it suitable for women, However, there are definitely also some musky undertones that makes it a very complex blend that is wearable by men as well. ",
+      "price": 84.99,
+      "category": 5,
+      "rating": 5,
+      "image_url": "https://assets.suredone.com/2061/media-pics/ptfblackorchid17edtb065-tom-ford-black-orchid-for-women-16-17-oz-50-ml-edt-spray-ne.jpeg",
+      "image": "Black_Orchid_By_Tom_Ford_For_Women.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003270936",
+      "name": "Tom Ford Neroli Portofino Aqua Eau De Toilette",
+      "description": "Citrusy-scented Neroli Portofino is one of the unisex perfumes offered by under the Tom Ford branding. This fragrance was created by Rodrigo Flores-Roux and launched in the year 2011, and it is being marketed by the Estēe Lauder Companies. \nWith a faint whiff, you can take in the base notes on which the product was developed, with orange blossom, vanilla, and amber turning out to be the stars of the show. It is very mildly-scented, although performance-wise outlasts many other Neroli-based colognes by other makers on the market.Men and women alike can wear this scent due to its multi-dimensional qualities containing both woodsy and bright undertones. Although, the overpowering fruity wafts are going to be more of the liking of women.",
+      "price": 129.99,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "https://www.eromman.com/images/detailed/821/d1UOl1rD1571021002.jpg",
+      "image": "Tom_Ford_Neroli_Portofino_Acqua_Eau_De_Toilette.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003360384",
+      "name": "Tom Ford Private Blend Tuscan Leather",
+      "description": "This one is one of the premium fragrances offered by Tom Ford in his exclusive collection known as Private Blend. This cologne was released in the year 2007, and is known as one of the twelve perfumes that have been an attempt to break-free from the conventional scents on the market.\nThe scent has extremely masculine and animalic accords with woodsy base notes. You can experience a dark, smokey, and manly whiff with every squirt of this cologne. Amber, Thyme, and Jasmine are also one of the main notes that are very evident. Some say this addictive scent comes really close to the the scent of Cocaine.If you like a very masculine touch in your fragrances then this product is not going to disappoint you. Although this is marketed to both men and women, this fragrance seems ideal for rugged men to enhance their personalities.Use this only if you are not one to shy away from attention, as this perfume is sure to give you lots of it when you enter a room.",
+      "price": 199.99,
+      "category": 5,
+      "rating": 4.8,
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/tom_ford_tuscan_leather_1024x1024.jpg?v=1526620403",
+      "image": "tom_ford_private_blend_tuscan_leather.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003440111",
+      "name": "Tom Ford Private Blend Oud Wood Eau De Parfum Spray",
+      "description": "This fragrance is the work of perfumer Richard Herpin. This one too is one of the perfumes released under the Private Blend Collection and is known to have a very bold fragrance which has not been experimented before.With a spritz, you can feel the fragrance opening up with very woodsy and spicy accords. You can definitely smell a lot of wood and cardamom in the blend which makes this one such a masculine fragrance with a feminine touch.\nAlthough stereotypically it is known to be more of a female-oriented smell, there is no doubt about the smokey and woodsy notes making it a very alluring scent which can be donned by men. However, if carried with zest and confidence, it will work for both men and women. ",
+      "price": 182,
+      "category": 5,
+      "rating": 4.3,
+      "image_url": "https://kebreaghana.com/wp-content/uploads/2019/01/15.jpg",
+      "image": "Tom_Ford_Private_Blend_Oud_Wood_Eau_De_Parfum_Spray.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003540313",
+      "name": "Tom Ford Amber Absolute",
+      "description": "This is another Oriental fragrance which was launched with the initial signature line in the year 2007 by Tom Ford. Amber Absolute is one of the unisex bottles that have its liking at both ends.The product opens up with a big waft of amber, incense, and aanilla that have a really calming effect on the mind. You also have some woody middle notes that make the fragrance very versatile. This has a very unusual oreintal note which is unlike the other signature Tom Ford fragrances.\nThis is a really good workplace scent for women, and you can be sure it will linger in the air when you wear it. You are sure to leave a scent-trail everywhere you go. Men can wear it too if they are out on a beach day with friends or have a patio party.",
+      "price": 106.99,
+      "category": 5,
+      "rating": 3,
+      "image_url": "https://gearmoose.com/wp-content/uploads/2019/10/Tom-Ford-Amber-Absolute-Scented-Candle.jpg",
+      "image": "Tom_Ford_Amber_Absolute_candle.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560513",
+      "name": "Tom Ford Private Blend Noir De Noir Eau De Parfum Spray",
+      "description": "Noir Denoir is another fragrance from the twelve perfumes sold under the Private Blend Collection by Tom Ford. While releasing this product, it was said to have the vibe of a collision between Yin and Yang, with a very dark and sensually awakening scent.\nIf you focus on the scent without any distractions, you can find a very earthy and rosey accord to the fragrance. The base notes have a lot of depth in them, and they blend really well in sort of a dark chocolate and red velvety rose base. Patchouli shines through the bold mixture and gives a very romantic feel to it, making it perfect for date nights!This perfume is equally suitable for both men and women, being one of the unisex combinations that Tom Ford has come up with. It mostly sways toward the feminine notes that are rather dark and sexy.",
+      "price": 241.99,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "https://img.fragrancex.com/images/products/parent/medium/73576w.jpg",
+      "image": "Tom_Ford_Private_Blend_Noir_De_Noir_Eau_De_Parfum_Spray.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560948",
+      "name": "Tom Ford Eau de Soleil Blanc Spray",
+      "description": "Nathalie Gracia-Cetto is the nose behind this sultry and floral scent which was launched in 2016 under one of the recent editions of the Private Blend Collection by Tom Ford.You can notice the scent opening with very strong notes of Coconut, Ylang Ylang, and Tuberose. It carries a very deep and warm undertone which makes it a very admirable scent for luxurious summer days.\nThe product is more preferable to women due to its through-and-through feminine scent which can be noticed with even a little bit of squirt. The oriental notes in the fragrance almost bulldozes over others.",
+      "price": 119.99,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "https://d3pllp7nz3wmw5.cloudfront.net/product_images/540649_fragrancex_EBAY_US.jpg",
+      "image": "Tom_Ford_Eau_de_Soleil_Blanc_Spray.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003570628",
+      "name": "Tom Ford Tobacco Oud",
+      "description": "Another Tobacco fragrance which was also developed by the genius Olivier Gillotin and was released in the year 2013. This fragrance has been marketed as one for both men and women.Intoxicating tobacco, oud, and whiskey can be sensed in the opening main note of the fragrance. The loud tobacco is soon followed by the spicy middle tones with a whiff or two of coriander and cinnamon. The smell is extremely sweet and bright in some spaces, while maintaining a boisterous tobacco scent throughout.\nYou can easily be transported into the time you opened whisky while hanging out with some of your friends, which makes this such a great scent to don when you are in a gathering, or even when you want to make a first impression in social settings.",
+      "price": 53.99,
+      "category": 5,
+      "rating": 4.3,
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/tom_ford_tobacco_oud_1024x1024.jpg?v=1526620035",
+      "image": "Tom_Ford_Private_Blend_Tobacco_Oud_Eau_De_Parfum_Spray.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003620308",
+      "name": "Tom Ford Fabulous EDP",
+      "description": "This is a scent which received a lot of press due to its name. It is a limited edition from Tom Ford’s Private Blend perfume line and was released in the year 2017 during the New York Fashion Week.With bitter almond and leather shining through as the main accords of the fragrance, this is one of the bold mixes made under the Tom Ford brand. The middle notes give you a very evident presence of lavender and clary sage, and overall leaves a very nutty smell on the skin.\nWe have found this product to lean more toward the masculine side and is ideal for a romantic and sexy date night.",
+      "price": 151.99,
+      "category": 5,
+      "rating": 4.6,
+      "image_url": "https://img.fragrancex.com/images/products/sku/large/76532W.jpg",
+      "image": "Tom_Ford_Fabulous_EDP.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690115",
+      "name": "Tobacco Vinelle by Tom Ford",
+      "description": "Tobacco Vinelle is the work of perfumer Olivier Gillotin and was released in the year 2007. The product was aimed to cater to both men and women with leafy tobacco and sweet vanilla being the main notes as per the brand.It opens with an oriental tobacco and boozy vanilla scent, with cacao and tonka beans lying in the middle tones, balancing the fragrance in a beautiful way. It comes off as a very masculine scent that flaunts a very dark honey note.\nCThis is a very assertive scent that you can wear in meetings and dates, and carries amazing masculine notes, that if taken up by a woman, would ooze of boldness everywhere she takes it with herself.",
+      "price": 199.99,
+      "category": 5,
+      "rating": 3,
+      "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2018/03/25/5ab7e72050eff9e1c0976390/m_5ab7e72345b30c2964cf4c4a.jpeg",
+      "image": "Tobacco_Vanille_by_Tom_Ford.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690116",
+      "name": "Calvin Klein CK One Eau de Toilette",
+      "description": "Calvin Klein CK One Eau de Toilette was the first unisex CK fragrance. It was launched in 1994. It maintains the same universal appeal today with its refreshing balance of sensuality and brightness.\nThe top notes of sweet mandarin oranges and juicy pineapple blend with papaya, lemon, cardamom, bergamot, and green notes to transport you to a bright sunny day by the beach. Violet, jasmine, orris root, nutmeg, rose, and lily-of-the-valley make up the intoxicating heart notes of this fragrance. The base notes of sandalwood, musk, amber, oakmoss, and cedar create a sensual dry down with a lingering warmth.",
+      "price": 74.99,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/600x600/115760.jpg",
+      "image": "Calvin_Kleinck_one_Ea_de_Toilettejpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003780391",
+      "name": "Calvin Klein Obsession Eau de Parfum",
+      "description": "Calvin Klein Obsession Eau de Parfum was introduced in 1985 and commands an irresistible appeal to this day. The perfume is best described as powerful, passionate, and intense.\nThe top notes of bergamot, mandarin, vanilla, basil, lemon, and peach set a sexy, provocative mood. The heart notes highlight a unique blend of exotic spices, jasmine, orange blossom, oakmoss, rose, coriander, sandalwood, and cedar. Musk, incense, civet, amber, vanilla, and vetiver give the deep, warm base notes a sophisticated finish. The feverish intensity of this oriental perfume creates a lasting impression with its distinctive signature aroma.",
+      "price": 89.99,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/600x600/120689.jpg",
+      "image": "Calvin_Klein_Obsession_Eau_de_Parfum.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003790542",
+      "name": "Calvin Klein Eternity Eau de Parfum",
+      "description": "Calvin Klein Eternity Eau de Parfum was created by Sophia Grojsman and released in 1988. The intense fragrance is an ode to the enduring values of love, family, and peace, designed as a tribute to Calvin Klein’s marriage. The romantic floral fragrance has a timeless charm.\nIt opens with refreshing top notes of freesia and mandarin. The heart notes offer a vibrant floral bouquet of violet, rose, and lily-of-the-valley, while sandalwood, musk, and heliotrope give the earthy base an enigmatic layer. Overall, it is a lighthearted scent that you can wear every day to add a captivating touch to your ensemble.",
+      "price": 89.99,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://bisaros.com.au/wp-content/uploads/2018/03/Calvin-Klein-Eternity.jpg",
+      "image": "Calvin_Klein_Eternity_Eau_de_Parfum.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003831225",
+      "name": "Calvin Klein Euphoria Eau de Parfum",
+      "description": "Calvin Klein Euphoria Eau de Parfum embodies a glamorous and sensual vibe that reflects your most intimate desires. It was released in 2005. The enchanting oriental fragrance is a pleasing blend of exotic fruits, alluring florals, and a creamy signature.\nThe top notes are made appealing with the use of a tangy pomegranate opening coupled with succulent persimmon in a lush green accord. Sensual champaca flower, black orchid, and lotus blossom combine in the heart notes, adding dark and exotic layers. The intense aroma of amber in the base notes adds to the spellbinding effect of this mysterious fragrance.",
+      "price": 73.99,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/600x600/139842.jpg",
+      "image": "Calvin_Klein_Euphoria_Eau_de_Parfum.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003861402",
+      "name": "Calvin Klein Women Eau de Parfum",
+      "description": "Calvin Klein Women Eau de Parfum is a celebration of the many different facets of femininity. The woody floral tones of the fragrance are a lovely blend of fresh strength with delicate sensuality. This perfume was released in August 2018. It is an attempt to capture the essence of the feminine spirit.\nThe first spritz brings you a whiff of eucalyptus, black pepper, and citruses, which make up the top notes. Magnolia, orange blossom, and jasmine highlight the delicate heart notes. The base notes feature a smooth finish with Alaskan cedarwood, ambrox, and olibanum. In its entirety, the perfume is a salute to the innate freedom of empowered women.",
+      "price": 99.99,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "https://calvinklein.scene7.com/is/image/CalvinKlein/44014500_000_main?wid=400&hei=400&fmt=jpeg&qlt=90%2C0&op_sharpen=1&resMode=trilin&op_usm=0.8%2C1.0%2C6%2C0&iccEmbed=0",
+      "image": "Calvin_Klein_Women_Eau_de_Parfum.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003910638",
+      "name": "Calvin Klein Obsession for Men Eau de Toilette",
+      "description": "The CK Obsession perfume was launched in 86, and it has dominated the perfume market ever since. It is one of the CK perfumes that has the perfect masculine aroma. Other than that, the cologne is spicy with a blend of botanicals and rare woods. Also, the perfume has some notes of patchouli, lavender, mandarin, and sandalwood.\nWhat makes it a top CK perfume is the fact that it has a strong scent that will last throughout the day. Whether you are out in the sun or indoors, this cologne will retain its original smell and still give you that sweet fragrance.",
+      "price": 23.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://technuggets.biz/wp-content/uploads/2019/02/Tech-Nuggets-calvin-klein-obsession-men-eau-de-toilette-125ml-.jpg",
+      "image": "Calvin_Klein_Obsession_for_Men_Eau_de_Toilette.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003950574",
+      "name": "Calvin Klein ETERNITY for Men Eau de Toilette",
+      "description": "TCK Eternity for men is one cologne that will give you a refreshing scent that is long-lasting as well. It comes with a blend of spices, amber, and lavender.The cologne’s top notes include lemon, mandarin orange, bergamot, and lavender. It is balanced with middle notes of lily, sage, jasmine, juniper, orange blossom, geranium, orchid, and basil. You’ll also enjoy the warm base notes of amber, Brazilian rosewood, musk, and sandalwood.\nIf you are planning to go out for a romantic evening, you will need to wear this aromatic cologne. You can also wear it on your regular days to work.",
+      "price": 84.99,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://cdn.shopify.com/s/files/1/1556/1715/products/ck-eternity-for-men_grande.jpg?v=1600309519",
+      "image": "calvin_klein_eternity_for_men_eau_de_toilette.jpg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003950576",
+      "name": "Calvin Klein Dark Obsession",
+      "description": " This cologne was introduced back in 2013, and it is a descendant of the iconic CK Obsession of the 80s. It comes with an irresistibly sensual scent that will appeal to the ladies. The amazing smell comes from a blend of oriental woods. As you spray, you will enjoy the smell of wormwood, Guarana, and Brazilian mandarin.\nThis then settles to a mixture of lavender, monosodium glutinosa, and pine cone. The final base notes are suede, Madagascar vanilla, and plastic labdanum. You can imagine how good you would smell when you wear this cologne – so seductive!",
+      "price": 34.99,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/123/12308/12308780.jpg",
+      "image": "Calvin_Klein_Dark_Obsession.jpg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960062",
+      "name": "Calvin Klein Euphoria Men",
+      "description": "The CK Euphoria Men perfume was introduced in 2006, and it is currently one of the best colognes for men. With this cologne, you will enjoy a seductive fragrance that comes with a unique freshness. Any man would be comfortable wearing this cologne. The CK Euphoria Men also has an aromatic wood smell, which is well-balanced with some spicy notes.\nIt has top notes of a strong aroma that is blended with spices. The middle notes are fresh and extra fragrant, and it settles with base notes of patchouli and musk.This cologne is perfect for a man that needs a seductive, yet masculine perfume. The intense fragrance is also ideal for any man, regardless of the age. It is a multi-purpose cologne that you can wear to work, on the weekends, or even when going out for a romantic evening.",
+      "price": 82.99,
+      "category": 2,
+      "rating": 4.2,
+      "image_url": "https://www.adorebeauty.com.au/media/product/c4e/calvin-klein-euphoria-men-edt-spray-100-ml-by-calvin-klein-7b9.png",
+      "image": "calvin_klein_euphoria_men.jpg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960682",
+      "name": "Ck One Shock",
+      "description": "Ck One Shock by Calvin Klein Cologne. A continuation of the fragrance sensation started with Ck One and part of a paired launch with a female version, Ck One Shock for men boasts a bold, dynamic character. The exhilarating Oriental spicy composition, a 1994 release from Calvin Klein, fuses lively and unconventional elements. Clementine citrus and fresh cucumber are accented by sharp black pepper and savory black basil. A caffeinated jolt of an energy drink accord intensifies the exciting potion from a classic American label.",
+      "price": 31.99,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://ak1.ostkcdn.com/images/products/6781215/Calvin-Klein-CK-One-ShoCK-Mens-3.4-ounce-Eau-de-Toilette-Spray-0f257cad-a236-4573-a581-15ddf283a0f9_600.jpg?impolicy=medium",
+      "image": "ck_one_shock.jpg"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960775",
+      "name": "Giorgio Armani Acqua Di Gio Profumo Cologne",
+      "description": "It was 1996 when Armani introduced Aqua di Gio cologne with an aqua-masculine fragrance for men. After more than two decades, Aqua di Gio Profumo, the updated version of this fragrance hit the market in the year 2015 and the crazy response made it one of the top recommended fragrances on many famous shopping websites.\n The fragrance of this cologne is inspired by the sea waves hitting the black rocks of a seashore. The main accords of the cologne can make you sense the blend of aquatic, woody, and spicy fragrance nicely mixed together which gives a very luxurious feel.",
+      "price": 91.99,
+      "category": 4,
+      "rating": 5,
+      "image_url": "https://cf.shopee.com.my/file/d4f78ee1b90abf4f684b69ec529a7e50",
+      "image": "Giorgio_Armani_Acqua_di_Gio_Profumo.jpg"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003990736",
+      "name": "Acqua Di Gio Absolu Cologne by Giorgio Armani EDP Spray men",
+      "description": "Acqua Di Gio Absolu cologne is another great invention by Alberto Morillas. After presenting the timeless Acqua Di Gio cologne in 1996 and many top-rated fragrances for Giorgio Armani, this perfumer again used his magical nose to present this beautiful cologne in the year 2018.\nThis fragrance is majorly all about the expressive combination of marine and wood with the slight involvement of fruity notes. The fragrance was announced for all the fans of masculine fragrance, as well as for those who always look for something better for their upcoming occasions. And after spraying a few shots on your wrist and other pulse points, you can definitely feel the sensational alliance of water and wood.",
+      "price": 118.99,
+      "category": 4,
+      "rating": 4.7,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/600x600/309403.jpg",
+      "image": "Acqua_Di_Gio_Absolu_Cologne_by_Giorgio_Armani.jpg"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003990746",
+      "name": "Giorgio Armani Armani Code for Men Eau De Toilette Spray",
+      "description": "Armani Code by Giorgio Armani for Men is another great fragrance which you can select as your next purchase for your upcoming events. This cologne has a unique fragrance which is an absolute gem created for the contemporary men to boost their style statement. This cologne was launched in the year 2004, and the warm response it received made it a deserving winner of the FiFi Award for being the best fragrance for men in the year 2006.\nIf you are one of those who are looking for a fragrance with a touch of spicy notes, then you will surely be going to fall in Love with this composition as this cologne has an oriental spicy fragrance.",
+      "price": 51.99,
+      "category": 4,
+      "rating": 4,
+      "image_url": "https://cdn.fragrancenet.com/images/photos/600x600/149315.jpg",
+      "image": "Giorgio_Armani_Armani_Code_for_Men_Eau_De.jpg"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004111503",
+      "name": "Giorgio Armani Acqua Di Gio Essenza Eau De Parfum Spray for men",
+      "description": "After the success of original Acqua Di Gio fragrance which was launched in the year 1996, there have been many modified versions launched under this series. Another great pick from this immortal series is Acqua Di Gio Essenza by Giorgio Armani.\nAcqua Di Gio Essenza is not an overpowering fragrance which makes it perfect for the daily casual wear. This fragrance was created with a perfectly balanced combination of intense and sensual attributes. Alberto Morillas, the creator of this fragrance focused more on the woody and amber accords this time, with a lesser amount of marine hint.",
+      "price": 58.99,
+      "category": 4,
+      "rating": 4.9,
+      "image_url": "https://media.karousell.com/media/photos/products/2018/09/27/giorgio_armani_acqua_di_gio_essenza_edp_for_men_75mltester_1538058559_ac664f8a0",
+      "image": "Giorgio_Armani_Acqua_Di_Gio_Essenza_Eau_De_Parfum.jpg"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004230059",
+      "name": "Armani Attitude by Giorgio Armani Eau de Toilette Spray for Men",
+      "description": "Armani Attitude by Giorgio Armani is another name in our list of best Armani colognes. This fragrance comes in an entirely new concept which is inspired by the cigarette lighter. This fragrance is also a fine pick for those men how are looking for the sharp notes with a nice touch of masculine and intense effect which can rightly complement their manly looks.\nAbout the notes detail which is doing justice with the fragrance, initially, this composition will give an unusual head notes of coffee and Sicilian lemon, followed by the heart notes of lavender and cardamom. The base is nicely constructed with the dry-down notes of patchouli, cedar, amber, and opopanax.",
+      "price": 41,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "https://i.pinimg.com/736x/bf/a9/af/bfa9aff43d56eefa8fa1644f3c7a89e0.jpg",
+      "image": "Armani_Attitude_by_Giorgio_Armani_Eau_de.jpg"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004310089",
+      "name": "Emporio Armani Diamonds Perfume",
+      "description": "Emporio Armani Diamonds by Giorgio Armani Perfume. A distinctive yet casual elixir from renowned fragrance designers at Giorgio Armani, Emporio Armani Diamonds is a moderate fragrance for women that balances a variety of savory and spicy notes, finished off with refreshing undertones. Introduced in 2007, this mature construction combines expert notes of litchi, raspberry, rose, amber, vetiver, cedar and vanilla. Lightly spray this charming scent on your pulse points for all your casual encounters, and enjoy the compliments and attention you receive.",
+      "price": 162.99,
+      "category": 4,
+      "rating": 4.5,
+      "image_url": "https://fragrances.com.ng/pub/media/catalog/product/cache/3c5784514da70671cbf256d920343e32/e/m/emporio-armani-diamonds-for-women-in-nigeria-online-perfumes_1.jpg",
+      "image": "Emporio_Armani_Diamonds_Perfume.jpg"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004610254",
+      "name": "Armani Si Perfume",
+      "description": "Armani Si by Giorgio Armani Perfume. An elegant perfume with strong staying power, Armani Si is ideal for red carpet events and special occasions. Introduced by Giorgio Armani in 2013, this fragrance is an elegant and intriguing scent for the woman who loves to get attention. It combines the classic notes of cassis, vanilla, freesia, May rose and patchouli to create a fragrance that will last all night with just one application. Whether you are headed to a wedding or a benefit party, this scent will help you turn heads.",
+      "price": 78.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "https://rihanh.com/wp-content/uploads/2019/04/3605521816580.jpg",
+      "image": "Armani_Si_Perfume.jpg"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004650050",
+      "name": "Acqua Di Gioia Perfume",
+      "description": "Acqua Di Gioia by Giorgio Armani Perfume. Revel in the aquatic notes of Acqua Di Gioia, a distinctly fresh and feminine scent for women from Giorgio Armani that was first bottled in 2010. This sensuous fragrance opens with an invigorating blast of refreshing mint and vibrant Amalfi lemon that gives way to a pink pepper and jasmine heart and a floral base of peony. The simmering sweetness clings to the skin and stays with you through morning meetings and afternoon lunches with friends.",
+      "price": 79.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "https://img.fragrancex.com/images/products/parent/medium/66675w.jpg",
+      "image": "Acqua_Di_Gioia_Perfume.jpg"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004821375",
+      "name": "Armani Si Passione Perfume",
+      "description": "Armani Si Passione by Giorgio Armani Perfume. Armani Si Passione, which translates as ‘it’s passion’, is a romantic and sensual perfume that was introduced in 2017. This fragrance is perfect for wearing of an evening and will last long into the night. The top notes are fruity and spicy and consist of pear, blackcurrant and pink pepper. The heart notes are floral with jasmine, rose and heliotrope and the base notes add a sweetness with cedarwood and vanilla.\nThe bottle for this perfume is shaped to look like a lipstick with its red bottle and black top and is a fun addition to any dressing-table.Giorgio Armani was born in 1934, in Piacenza, Italy. He founded the company that took his last name in 1975. The brand originally designed and sold menswear, with womenswear to follow. The first fragrance was launched by the company in 1982 and the range now includes cosmetics, beauty products, accessories, footwear and bags.",
+      "price": 69.99,
+      "category": 4,
+      "rating": 4.2,
+      "image_url": "https://www.perfumestore.my/wp-content/uploads/2018/09/GIORGIO-ARMANI-SI-PASSIONE-EDP-FOR-WOMEN.jpg",
+      "image": "Armani_Si_Passione_Perfume.jpg"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5004900522",
+      "name": "Giorgio Armani Code Eau de Parfum Spray Women",
+      "description": "Armani Code by Giorgio Armani Perfume. Stamp yourself with the signature style of an Italian label synonymous with luxurious fashion. Armani Code for men, a 2013 reprise of a classic scent, brings the sophisticated cachet of creator Giorgio Armani. The masterfully developed oriental spicy composition offers a lavish blend of traditional and modern notes. Bergamot and lemon citrus lend zest to layers of licorice-like star anise, Mediterranean olive blossom and exotic guaiac wood. Exude an aura of suave masculinity and cool confidence wearing this Armani design.",
+      "price": 66.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "https://cf.shopee.com.my/file/76656e19e57a72d672d98401eb56c0eb",
+      "image": "Armani_Code_Perfume.jpg"
+    }
+  }
+]
