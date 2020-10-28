@@ -77,10 +77,20 @@ body {
 .text-black {
     color: #000 !important;
 }
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
+}
 
 .border-black {
     border: 2px solid #AD974F !important;
 }
+
 
 .banner{
     -webkit-background-size: cover;
@@ -134,13 +144,16 @@ background-image: none;
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
-@media (min-width: 768px) and (max-width:991px) {
+
+@media (min-width: 1200px) {
   .container {
     max-width: 80%;
   }
 
+  .header-container {
+        padding-top: 164px;
+    }
 }
-
 /* fixed top navbar only on medium and up */
 @media only screen and (min-width: 768px) and (max-width: 1200px){
     .fixed-top-desktop-only {
@@ -150,9 +163,8 @@ background-image: none;
         left: 0;
         z-index: 1030;
     }
-
     .header-container {
-        padding-top: 118px;
+        padding-top: 164px;
     }
     .carousel-caption{
             padding-bottom: 250px;
@@ -163,16 +175,43 @@ background-image: none;
     }
 }
 
-@media only screen and (max-width:767px){
+@media only screen and (max-width: 767px){
     .carousel-caption{
         padding-bottom: 220px;
     }
 
     .carousel-caption h2{
-        font-size: 45px;
+        font-size: 35px;
     }
     .carousel-caption h3{
-        font-size: 36px;
+        font-size: 20px;
     }
-    
+    .carousel-caption a{
+        padding: 10px 25px;
+    }
+    .header-container {
+        padding-top: 116px;
+    }
 }
+
+@media only screen and (max-width: 475px){
+
+       .carousel-caption{
+        padding-bottom: 220px;
+    }
+
+    .carousel-caption h2{
+        font-size: 25px;
+    }
+    .carousel-caption h3{
+        font-size: 18px;
+    }
+    .carousel-caption a{
+        padding: 10px 10px;
+    }
+    .header-container {
+        padding-top: 144px;
+    }
+
+}
+
