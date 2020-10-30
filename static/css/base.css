@@ -34,9 +34,30 @@ body {
     min-width: 260px;
 }
 
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.update-link,
+ .remove-item{
+    cursor: pointer;
+    font-size: 24px; 
+    
+}
+
+.btt-link{
+    cursor: pointer;
+    font-size: 24px; 
+    background: #AD974F;
+}
 .btn-gold {
     background: #AD974F;
     color: white;
+    border: 1px solid #000;
 }
 
 .shop-now-button:hover,
