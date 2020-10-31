@@ -1,0 +1,1 @@
+web: gunicorn the_aroma.wsgi:application
