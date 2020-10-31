@@ -32,7 +32,10 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'home',
     'products',
-    'cart'
+    'cart',
+    'checkout',
+    'crispy_forms',
+
 ]
 
 MIDDLEWARE = [
@@ -46,6 +49,8 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'the_aroma.urls'
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 TEMPLATES = [
     {
@@ -62,7 +67,12 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'cart.contexts.cart_content',
+                'django.template.context_processors.media',
             ],
+            'builtins': [
+                'crispy_forms.templatetags.crispy_forms_tags',
+                'crispy_forms.templatetags.crispy_forms_field',
+            ]
         },
     },
 ]
@@ -145,6 +155,10 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
+# stripe keys
 FREE_DELIVERY_THRESHOLD = 50
-
 STANDARD_DELIVERY_PERCENTAGE = 15
+STRIPE_CURRENCY = 'usd'
+STRIPE_PUBLIC_KEY1 = os.getenv('STRIPE_PUBLIC_KEY1', '')
+STRIPE_SECRET_KEY1 = os.getenv('STRIPE_SECRET_KEY1', '')
+STRIPE_WH_SECRET1 = os.getenv('STRIPE_WH_SECRET1', '')
