@@ -22,7 +22,7 @@
   <div class="row">
     <div class="col">
       {% if cart_items %}
-      <div class="table-responsive rounded">
+      <div class="table-responsive card rounded">
         <table class="table table-sm table-borderless">
           <thead class="text-black">
             <tr>
@@ -36,9 +36,9 @@
 
           {% for item in cart_items %}
           <tr>
-            <td class="p-3 w-25">
+            <td class="p-3 w-25 ">
               {% if item.product.image %}
-             <img class="img-fluid rounded" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
+             <img class="img-fluid rounded " src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
             {% else %}
            <img class="img-fluid rounded" 
            src="{{ MEDIA_URL }}noimage.png" alt="{{ item.product.name }}">

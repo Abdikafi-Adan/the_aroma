@@ -3,11 +3,13 @@ html {
 }
 
 body {
+    background-color: #EAEAEA;
     height: calc(100vh - 164px);
     background-size: cover;
     color: #000;
     font-family: 'Cardo', serif;
     width: 100%;
+    
 }
 
 /* from Bulma */ 
@@ -63,25 +65,15 @@ body {
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
+.btn-gold:hover,
+.btn-gold:active,
+.btn-gold:focus {
     background: #222;
     color: white;
 }
-
-.dark-gold {
-    color: #8E793E !important;
-    
-
-}
 .light-gold {color: #AD974F !important;
 }
-.intellectual-grey {color: #231F20 !important;
-}
 
-.light-grey {color: #EAEAEA;
-}
 
 .bg-grey{
     background:  #EAEAEA;
@@ -104,7 +96,7 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: white;
+	background: #EAEAEA;
 	z-index: -1;
 }
 
@@ -140,7 +132,7 @@ body {
     background: rgba(3, 3, 3, 0.82);
     font-weight: bold;
 }
-}
+
 
 .carousel-caption a{
     padding: 15px 35px;
@@ -162,6 +154,24 @@ background-image: none;
     
 
 }
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: 1rem;
+    -webkit-box-shadow: -10px -10px 15px 0 #d4af37;
+    box-shadow: -10px -10px 20px 0 #d4af37;
+    border: none;
+}
+
+
 /* toasts */
 
 .message-container {
