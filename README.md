@@ -210,4 +210,4 @@ found all my image in google,I have all the image urls in my fixtures for more i
 
 the code are inspired by the Boutique Ado mini project from Code Institute gerat project. 
 
-> NOTE: This project was created for educational purposes only as 'The Aroma' is a fictional business and is ony used to learn and understanding Django application.
+> NOTE: This project was created for educational purposes only as 'The Aroma' is a fictional business and is only used to learn and understanding Django application.
