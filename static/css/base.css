@@ -112,6 +112,18 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
 }
+#bg-hugoboss{
+  
+    background: url(/media/hugoboss_bg.jpg) center center;
+}
+#bg-versace{
+  
+    background: url(/media/versace_bg.jpg) center center;
+}
+#bg-aramin{
+  
+    background: url(/media/armani_bg.png) center center;
+}
 .carousel-caption{
     padding-bottom: 100px;
     font-family: 'Poppins', sans-serif;
